@@ -46,7 +46,7 @@ module Letsrate
     if val == 0
       true
     else
-      false
+      true
     end         
   end    
   
